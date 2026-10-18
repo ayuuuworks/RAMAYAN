@@ -1,0 +1,6 @@
+{
+  "name": "Ramayana: When The Screen Breaks",
+  "description": "An autoplay cinematic storytelling experience through the ancient Indian epic of the Ramayana with manuscript portal, sage narration, and 3D temple atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
